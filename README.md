@@ -8,7 +8,7 @@ Filters a [Container Linux Configuration YAML](https://coreos.com/os/docs/latest
 
 ### Typical working directory
 ```
-./filter_plugins/cy.py
+./filter_plugins/ct.py
 ./bin/ct
 ```
 
